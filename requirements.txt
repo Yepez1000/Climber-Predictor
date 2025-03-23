@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+requests
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+matplotlib
+pillow
+torch-geometric
